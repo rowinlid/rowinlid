@@ -1,8 +1,16 @@
 ### Hi there 👋, Rowin Lidwin
 #### Web Developer
-I am Rowin, and I am currently working on my Bachelor's degree in Computer Science. I really enjoy Web Development, UI, and UX design. I also enjoy integrating backend with frontend and have worked on several projects in that area. You can check out my LinkedIn profile @ https://www.linkedin.com/in/rowinlidwin/
+I am Rowin, and I am currently pursuing a Bachelor's degree in Computer Science. I enjoy working on Web Development, UI, and UX design. I also enjoy integrating backend with frontend and have worked on several projects in that area. You can check out my LinkedIn profile @ https://www.linkedin.com/in/rowinlidwin/
 
-Skills: REACT / Node JS / PostgreSQL / Bootstrap / JS / HTML / CSS
+Skills: 
+
+* ⚛ REACT
+* 📲 Node JS
+* 🐘 PostgreSQL
+* 🥾 Bootstrap
+* 𝒯 JS
+* 🗝 HTML
+* 😎 CSS
 
 - 🔭 I’m currently working on developing my skills and building my portfolio for prospective employers. 
 - 🌱 I’m currently learning front end development libraries such as Bootstrap, jQuery, SASS, React, and Redux.  
