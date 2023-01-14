@@ -1,6 +1,6 @@
 ### Hi there 👋, Rowin Lidwin
 #### Web Developer
-I am Rowin, and I am currently pursuing a Bachelor's degree in Computer Science. I enjoy working on Web Development, UI, and UX design. I also enjoy integrating backend with frontend and have worked on several projects in that area. You can check out my LinkedIn profile @ https://www.linkedin.com/in/rowinlidwin/
+I am Rowin, and I am currently pursuing a Bachelor's degree in Computer Science at the University of Texas at Dallas. I enjoy working on Web Development, UI, and UX design. I also enjoy integrating backend with frontend and have worked on several projects in that area. You can check out my LinkedIn profile @ https://www.linkedin.com/in/rowinlidwin/
 
 Skills: 
 
