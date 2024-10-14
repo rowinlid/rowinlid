@@ -3,19 +3,19 @@
 
 I'm a passionate Full Stack Developer with a strong foundation in Computer Science. Currently pursuing a Master's in Information Technology and Management at the University of Texas at Dallas, I bring a blend of technical skills and business acumen to the table. I enjoy working on Web Development, UI, and UX design. I also enjoy integrating backend with frontend and have worked on several projects in that area.  You can check out my complete profile @ https://www.linkedin.com/in/rowinlidwin/
 
-🚀 What I'm up to:
+# 🚀 What I'm up to:
 
 - 🎓 Completing my MS in ITM (expected May 2026) after earning my BS in Computer Science (May 2024)
 - 💼 Recently worked as a Software Engineer at Digit7, enhancing AI-powered self-checkout systems
 - 🌱 Continuously expanding my skill set in full stack development, cloud technologies, and AI/ML
 
-💻 Tech Stack:
+# 💻 Tech Stack:
 
-Languages: Java, Python, C++, JavaScript, HTML, CSS
-Frameworks: Spring Boot, React, Node.js, Express.js, Electron JS, Angular, Django, Flask
-Databases: MySQL, PostgreSQL, MongoDB
-Cloud/DevOps: AWS, Kubernetes, Docker, MicroK8s
-AI/ML: Pandas, NumPy, Computer Vision (CV2), YoloV5
+- Languages: Java, Python, C++, JavaScript, HTML, CSS
+- Frameworks: Spring Boot, React, Node.js, Express.js, Electron JS, Angular, Django, Flask
+- Databases: MySQL, PostgreSQL, MongoDB
+- Cloud/DevOps: AWS, Kubernetes, Docker, MicroK8s
+- AI/ML: Pandas, NumPy, Computer Vision (CV2), YoloV5
 
 🏆 Certifications:
 
