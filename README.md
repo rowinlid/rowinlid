@@ -5,9 +5,9 @@ I'm a passionate Full Stack Developer with a strong foundation in Computer Scien
 
 🚀 What I'm up to:
 
-🎓 Completing my MS in ITM (expected May 2026) after earning my BS in Computer Science (May 2024)
-💼 Recently worked as a Software Engineer at Digit7, enhancing AI-powered self-checkout systems
-🌱 Continuously expanding my skill set in full stack development, cloud technologies, and AI/ML
+- 🎓 Completing my MS in ITM (expected May 2026) after earning my BS in Computer Science (May 2024)
+- 💼 Recently worked as a Software Engineer at Digit7, enhancing AI-powered self-checkout systems
+- 🌱 Continuously expanding my skill set in full stack development, cloud technologies, and AI/ML
 
 💻 Tech Stack:
 
